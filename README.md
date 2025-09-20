@@ -20,10 +20,15 @@
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
+<!-- <div align="center">
   ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoGC96&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGC96&layout=compact&theme=radical)
-</div>
+</div> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoGC96&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoGC96&layout=compact&theme=radical" height="180em" />
+</p>
 
 ---
 
